@@ -1,0 +1,14 @@
+﻿Emp ID,First Name,Last Name,Department,Basic Salary,Bonus %,Absent Days,,Full Name,Email Id,Bonus Amount,Per Day Salary,Deduction Amount,Net Salary
+E001,rohith,kumar,it,45000,12,2,,Rohith Kumar,rohithkumar@gmail.com,5400,1730.77,3462,41550
+E002,priya,sharma,hr,38000,8,0,,Priya Sharma,priyasharma@gmail.com,3040,1461.54,0,38008
+E003,anil,reddy,finance,52000,15,5,,Anil Reddy,anilreddy@gmail.com,7800,2000,10000,42015
+E004,sneha,rao,it,41000,10,1,,Sneha Rao,sneharao@gmail.com,4100,1576.92,1577,39433
+E005,vikram,nair,hr,35000,6,3,,Vikram Nair,vikramnair@gmail.com,2100,1346.15,4039,30967
+,,,,,,,,,,,,,
+,,,,Average Salary,,CountIf,,,,,,,
+,,,,42200,,2,,,,,,,
+,,,,Total Salary,,,,,,,,,
+,,,,211000,,,,,,,,,
+,,,,Max & Min,,,,,,,,,
+,,,,52000,,,,,,,,,
+,,,,35000,,,,,,,,,
